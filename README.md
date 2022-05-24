@@ -5,10 +5,9 @@ It is a website adapted for mobile and web, organized in a single page for a sim
 ## 📋 Project
 
 This project is the result of participating in a class on Bedimcode 🚀.
-
 It was possible to have fundamental knowledge of HTML, CSS and JavaScript.
 
-[ShoeBrand - Petrus Borges](https://petrusborges-shoebrand.netlify.app)
+[Responsive 404 Page - Petrus Borges](https://petrusborges-responsive-404-page.netlify.app)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/169511338-8f9a8ef3-c9cb-48b7-88ad-fab313b9915c.gif)
 
