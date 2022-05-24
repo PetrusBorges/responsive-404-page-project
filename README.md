@@ -5,6 +5,7 @@ It is a website adapted for mobile and web, organized in a single page for a sim
 ## 📋 Project
 
 This project is the result of participating in a class on Bedimcode 🚀.
+
 It was possible to have fundamental knowledge of HTML, CSS and JavaScript.
 
 [ShoeBrand - Petrus Borges](https://petrusborges-shoebrand.netlify.app)
