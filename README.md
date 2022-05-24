@@ -9,7 +9,7 @@ It was possible to have fundamental knowledge of HTML, CSS and JavaScript.
 
 [Responsive 404 Page - Petrus Borges](https://petrusborges-responsive-404-page.netlify.app)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/169511338-8f9a8ef3-c9cb-48b7-88ad-fab313b9915c.gif)
+![preview img](/preview.png)
 
 ## 🛠️ Built with
 
@@ -33,4 +33,4 @@ It was possible to have fundamental knowledge of HTML, CSS and JavaScript.
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+
